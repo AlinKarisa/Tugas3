@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  tr,
+  td:first-child {
+    width: 50px;
+  }
+  tr,
+  td {
+    width: 100px;
+    border-bottom: 1px solid #fff;
+  }
+  thead td {
+    background-color: lightgray;
+    font-weight: bold;
+  }
+  tbody tr:nth-child(odd) {
+    background-color: aqua;
+    color: #fff;
+  }
+  tbody tr:nth-child(odd) {
+    background-color: aqua;
+    color: #fff;
+  }
